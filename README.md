@@ -1,4 +1,4 @@
 # DontSkibidisnitch
 
-Study set for APCS Schs
+Study set 
 Share it to anybody youd like :)
